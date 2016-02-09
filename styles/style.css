@@ -17,8 +17,8 @@ input{
   transition: .5s all ease;
  }
 
-input:focus{
-  
+textarea:focus{
+   background-color: tomato
 }
 textarea:focus{
   
@@ -37,6 +37,7 @@ textarea{
 }
 
 input:focus {
+  background-color: tomato
   
 }
 
